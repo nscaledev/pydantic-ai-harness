@@ -31,7 +31,7 @@ dependencies = [
     "genai-prices>=0.0.71",
     "httpx>=0.28.1",
     # `CodeMode` reads `ModelRequestParameters.revealed_tool_names`, which lands in 2.22.0.
-    "pydantic-ai-slim>=2.22.0",
+    "pydantic-ai-slim>=2.53.0",
 ]
 
 [project.optional-dependencies]
